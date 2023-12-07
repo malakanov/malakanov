@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sergey Malakanov</h1>
 <h3 align="center">A backend developer</h3>
 
+My stack: PHP8 + Laravel + PostgreSQL + Kafka + Redis + Docker + K8s.
+
+- analysis, design and evaluation of technical solutions together with the team
+- participation in the formation of product architecture and microservices
+- conducting code review
+- code base refactoring
+
 - 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
