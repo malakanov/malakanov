@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergey Malakanov</h1>
 <h3 align="center">A backend developer</h3>
 
-My stack: PHP8 + Laravel + PostgreSQL + Kafka + Redis + Docker + K8s.
+My stack: PHP8 + Symfony + Laravel + PostgreSQL + Kafka + Redis + Docker + K8s.
 
 - analysis, design and evaluation of technical solutions together with the team
 - participation in the formation of product architecture and microservices
