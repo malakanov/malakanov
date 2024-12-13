@@ -11,7 +11,7 @@ My stack: PHP8 + Symfony + Laravel + PostgreSQL + Kafka + Redis + Docker + K8s.
 - 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://t.me/SergeyMalakanov" target="_blank" rel="noreferrer">Telegram</a> 
+<p align="left"><a href="https://t.me/srgmlknv" target="_blank" rel="noreferrer">Telegram</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
